@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D27B8FD56AC387D3D5C1A2C19BB7F7FE937AB929",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D27B8FD56AC387D3D5C1A2C19BB7F7FE937AB929" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19D95A7D-80CD-497F-BBDC-249831E777C1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D27B8FD56AC387D3D5C1A2C19BB7F7FE937AB929" : "eecs398\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "c4cs-hw13",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "c4cs-hw13\/c4cs-hw13.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ndurann\/c4cs-w18-rpn.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D27B8FD56AC387D3D5C1A2C19BB7F7FE937AB929"
+    }
+  ]
+}
