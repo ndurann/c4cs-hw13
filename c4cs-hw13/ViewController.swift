@@ -9,10 +9,26 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet var name: UILabel!
+    @IBOutlet var uniqname: UILabel!
+    @IBOutlet var course: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        self.view.backgroundColor = UIColor.blue;
+        
+        name.textColor = UIColor.yellow;
+        name.font = UIFont.boldSystemFont(ofSize: 22.0);
+        name.textAlignment = .center;
+        uniqname.textColor = UIColor.yellow;
+        uniqname.font = UIFont.boldSystemFont(ofSize: 22.0);
+        uniqname.textAlignment = .center;
+        course.textColor = UIColor.yellow;
+        course.font = UIFont.boldSystemFont(ofSize: 45.0);
     }
 
     override func didReceiveMemoryWarning() {

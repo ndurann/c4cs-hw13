@@ -199,11 +199,15 @@ SWIFT_CLASS("_TtC9c4cs_hw1311AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UILabel;
 @class NSBundle;
 @class NSCoder;
 
 SWIFT_CLASS("_TtC9c4cs_hw1314ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified name;
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified uniqname;
+@property (nonatomic, strong) IBOutlet UILabel * _Null_unspecified course;
 - (void)viewDidLoad;
 - (void)didReceiveMemoryWarning;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
