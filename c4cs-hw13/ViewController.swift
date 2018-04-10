@@ -15,6 +15,11 @@ class ViewController: UIViewController {
     @IBOutlet var course: UILabel!
     
     
+    @IBAction func buttonPressed(_ sender: Any) {
+        self.view.backgroundColor = UIColor.yellow;
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
